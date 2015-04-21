@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/leon/AndroidstudioProjects/Android-AppLink-Demo-Notification/app/libs/AppLinkSDKAndroid-2-3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ceec102be50759f32547d3293f26630f03d744ce">
+        <dex dex="/Users/leon/AndroidstudioProjects/Android-AppLink-Demo-Notification/app/build/intermediates/pre-dexed/debug/AppLinkSDKAndroid-2-3-6fd895278a5451e9b429b18bfc82c18a6992a307.jar" />
+    </item>
+    <item
+        jar="/Users/leon/AndroidstudioProjects/Android-AppLink-Demo-Notification/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/leon/AndroidstudioProjects/Android-AppLink-Demo-Notification/app/build/intermediates/pre-dexed/debug/classes-b1f0c0c8250b65f267016746a973d05d48a04d58.jar" />
+    </item>
+    <item
+        jar="/Users/leon/AndroidstudioProjects/Android-AppLink-Demo-Notification/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/leon/AndroidstudioProjects/Android-AppLink-Demo-Notification/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-a4c88d4b74f6005ad1401414c1acf2ea8c1cafd5.jar" />
+    </item>
+    <item
+        jar="/Users/leon/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/leon/AndroidstudioProjects/Android-AppLink-Demo-Notification/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-0d18321749d333561565509c1c0694e8d2c84a55.jar" />
+    </item>
+
+</items>
